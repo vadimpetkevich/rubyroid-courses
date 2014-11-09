@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'extime'
+puts 'Date: ' << Time.now.ymd
+puts 'Time: ' << Time.now.HMS
