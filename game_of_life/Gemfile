@@ -1,0 +1,5 @@
+# game_of_life Gemfile
+source "https://rubygems.org"
+
+gem "colored"
+gem "curses"
